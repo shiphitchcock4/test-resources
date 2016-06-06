@@ -1,0 +1,6 @@
+jobs:
+  - name : testjobreso1
+    type : manifest
+    steps :
+      - GET new1
+      - PUT new1
