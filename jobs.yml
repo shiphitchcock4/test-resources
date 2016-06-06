@@ -4,3 +4,4 @@ jobs:
     steps :
       - GET new1
       - PUT new1
+  
